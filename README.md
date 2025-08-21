@@ -1,16 +1,31 @@
 # shoppingapp
 
-A new Flutter project.
+El-Makhzan Shopping App
+📌 Overview
 
-## Getting Started
+El-Makhzan is a demo shopping application built with Flutter.
+It includes:
 
-This project is a starting point for a Flutter application.
+Sign Up Page with form validation.
 
-A few resources to get you started if this is your first Flutter project:
+Sign In Page with login validation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Products Page displaying items in a grid view.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cart (SnackBar) to simulate adding items.
+
+Hot Offers Section.
+
+Multi-language support (English / Arabic) using Easy Localization.
+
+⚙️ Features
+
+🎨 Simple UI using Material Design.
+
+🛡️ Form Validation for user input.
+
+🔄 Navigation between pages using Navigator.
+
+🛍️ Products grid with sample images.
+
+🌍 Language switcher (English / Arabic)
